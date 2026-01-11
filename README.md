@@ -19,7 +19,7 @@ Defined the following network settings:
 - Subnet Mask
 - Preferred DNS (pointing to the server itself)
 
-📸 Screenshot 1: Network Adapter IPv4 Settings
+📸 Screenshot will be added
 
 💡 Why this matters:
 Domain Controllers require a static IP address to avoid authentication failures and DNS resolution issues within an Active Directory environment.
@@ -31,6 +31,7 @@ Domain Controllers require a static IP address to avoid authentication failures 
 - Added the Active Directory Domain Services role
 - Included required features (DNS, Management Tools)
 
+📸 Screenshot will be added
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✅ Step 3: Promote Server to Domain Controller
@@ -39,3 +40,5 @@ Domain Controllers require a static IP address to avoid authentication failures 
 - Created a new Active Directory domain
 - Configured DNS and Domain Controller options
 - Completed promotion and rebooted the server
+
+📸 Screenshot will be added
