@@ -25,7 +25,7 @@ Defined the following network settings:
 Domain Controllers require a static IP address to avoid authentication failures and DNS resolution issues within an Active Directory environment.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔹 Step 2: Install Active Directory Domain Services (AD DS)
+✅ Step 2: Install Active Directory Domain Services (AD DS)
 
 - Opened Server Manager
 - Added the Active Directory Domain Services role
@@ -33,7 +33,7 @@ Domain Controllers require a static IP address to avoid authentication failures 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔹 Step 3: Promote Server to Domain Controller
+✅ Step 3: Promote Server to Domain Controller
 
 - Promoted the server to a Domain Controller
 - Created a new Active Directory domain
