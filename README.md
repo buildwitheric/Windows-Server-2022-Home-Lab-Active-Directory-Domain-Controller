@@ -32,3 +32,10 @@ Domain Controllers require a static IP address to avoid authentication failures 
 - Included required features (DNS, Management Tools)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔹 Step 3: Promote Server to Domain Controller 4: Promote Server to Domain Controller
+
+- Promoted the server to a Domain Controller
+- Created a new Active Directory domain
+- Configured DNS and Domain Controller options
+- Completed promotion and rebooted the server
